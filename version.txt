@@ -1,1 +1,2 @@
-1
+1<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+-<addon istreammediatv="Avigdor" version="99.0.0" name="istreammediatv" id="plugin.video.istreammediatv.com">-<requires><import version="2.1.0" addon="xbmc.python"/><import addon="repository.xbmc-israel"/></requires>-<extension library="default.py" point="xbmc.python.pluginsource"><provides>video</provides></extension>-<extension point="xbmc.addon.metadata"><summary lang="en">istreammediatv addon - downloaded for free from: http://www.hometheater.co.il</summary><description lang="en">istreammediatv addon - downloaded for free from: http://www.hometheater.co.il</description><platform>all</platform></extension></addon>
